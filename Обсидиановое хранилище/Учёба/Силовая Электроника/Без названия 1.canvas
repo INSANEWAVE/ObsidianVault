@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"2c01e21fd1995aee","x":148,"y":54,"width":250,"height":60,"type":"text","text":""},
+		{"id":"11f4deee00b9de65","x":-320,"y":-60,"width":84,"height":80,"type":"text","text":"T8"},
+		{"id":"16a4433cd458959f","x":200,"y":-90,"width":250,"height":60,"type":"text","text":"Т5"},
+		{"id":"39f16d1b02267641","x":-160,"y":-120,"width":250,"height":60,"type":"text","text":"T2 - Даёт квадратный ШИМ импульс"},
+		{"id":"e21559b8ec52e4e5","x":480,"y":20,"width":114,"height":60,"type":"text","text":"ADC"}
+	],
+	"edges":[
+		{"id":"b7ae5f3731c3dbd1","fromNode":"11f4deee00b9de65","fromSide":"right","toNode":"39f16d1b02267641","toSide":"left"},
+		{"id":"56a73742ca209e33","fromNode":"39f16d1b02267641","fromSide":"right","toNode":"16a4433cd458959f","toSide":"left"},
+		{"id":"afaa499fdac3a092","fromNode":"11f4deee00b9de65","fromSide":"right","toNode":"e21559b8ec52e4e5","toSide":"left"}
+	]
+}

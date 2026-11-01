@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"83af791ab9ce26df","type":"text","text":"Объект управления","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"4f9c9880519eebf9","type":"text","text":"Управляемая величина **Y(t)**","x":220,"y":-41,"width":250,"height":71},
+		{"id":"71dfb9d20a880712","type":"text","text":"Возмущающее воздействие **F(t)**","x":-80,"y":-260,"width":250,"height":80},
+		{"id":"da6ea02391ff21d9","type":"text","text":"Управляющее воздействие **U(t)**","x":-480,"y":-160,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"49fc75d8836239a5","fromNode":"71dfb9d20a880712","fromSide":"bottom","toNode":"83af791ab9ce26df","toSide":"top"},
+		{"id":"c5957c10ea5019ab","fromNode":"da6ea02391ff21d9","fromSide":"right","toNode":"83af791ab9ce26df","toSide":"left"},
+		{"id":"339a897ec059414d","fromNode":"83af791ab9ce26df","fromSide":"right","toNode":"4f9c9880519eebf9","toSide":"left"}
+	]
+}

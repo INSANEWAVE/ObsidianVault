@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"70fdbf7cd334dd35","x":-240,"y":-20,"width":100,"height":60,"type":"text","text":"УУ"},
+		{"id":"eb3545824041d26d","type":"text","text":"ОУ","x":-50,"y":-20,"width":100,"height":60},
+		{"id":"f3d9296c6e9a525d","x":-760,"y":10,"width":250,"height":60,"type":"text","text":""},
+		{"id":"17cfaffa602c6baa","x":240,"y":-20,"width":250,"height":60,"type":"text","text":""},
+		{"id":"2b932e73e91aac5e","type":"text","text":"Возмущения","x":-125,"y":-380,"width":250,"height":60},
+		{"id":"7dbaeda9690ef60d","type":"text","text":"Д","x":-150,"y":220,"width":100,"height":60},
+		{"id":"d775bae2ed3ef791","type":"text","text":"Помехи","x":-175,"y":70,"width":150,"height":60}
+	],
+	"edges":[
+		{"id":"53207c3f2cfeb813","fromNode":"f3d9296c6e9a525d","fromSide":"right","toNode":"70fdbf7cd334dd35","toSide":"left","label":"v(t)"},
+		{"id":"7d2f40158197cee9","fromNode":"7dbaeda9690ef60d","fromSide":"left","toNode":"70fdbf7cd334dd35","toSide":"left","label":"y~(t)"},
+		{"id":"8e66bc63f17b6c75","fromNode":"70fdbf7cd334dd35","fromSide":"right","toNode":"eb3545824041d26d","toSide":"left","label":"u(t)"},
+		{"id":"8d7380c27e435dff","fromNode":"eb3545824041d26d","fromSide":"right","toNode":"17cfaffa602c6baa","toSide":"left","label":"y(t)"},
+		{"id":"76fb34c9a9e0a1f0","fromNode":"eb3545824041d26d","fromSide":"right","toNode":"7dbaeda9690ef60d","toSide":"right","label":"y(t)"},
+		{"id":"024eab16370aed8e","fromNode":"2b932e73e91aac5e","fromSide":"bottom","toNode":"eb3545824041d26d","toSide":"top","label":"f(t)"},
+		{"id":"9531da8ce3dfbe93","fromNode":"d775bae2ed3ef791","fromSide":"bottom","toNode":"7dbaeda9690ef60d","toSide":"top","label":"s(t)"}
+	]
+}

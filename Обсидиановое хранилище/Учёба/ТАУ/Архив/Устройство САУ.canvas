@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d129e232c3e54cf6","type":"text","text":"САУ","x":-125,"y":-30,"width":105,"height":60},
+		{"id":"aef400de57ca791f","type":"text","text":"F(t) - возмущающее воздействие","x":-197,"y":-180,"width":250,"height":60},
+		{"id":"c009b41f9fb14742","type":"text","text":"Y(t) - Управляемая величина","x":100,"y":-30,"width":250,"height":60},
+		{"id":"7a17f20ad4c64492","type":"text","text":"V(t) - Задающее воздействие (желаемая величина)","x":-447,"y":-30,"width":250,"height":60},
+		{"id":"46131b087dcecfad","type":"text","text":"Могут быть векторными","x":-220,"y":-320,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6aeaf77712dd551b","fromNode":"aef400de57ca791f","fromSide":"bottom","toNode":"d129e232c3e54cf6","toSide":"top"},
+		{"id":"e9d7c012787e96aa","fromNode":"7a17f20ad4c64492","fromSide":"right","toNode":"d129e232c3e54cf6","toSide":"left"},
+		{"id":"967c909c250f3efd","fromNode":"d129e232c3e54cf6","fromSide":"right","toNode":"c009b41f9fb14742","toSide":"left"},
+		{"id":"5aedf198006a36d3","fromNode":"46131b087dcecfad","fromSide":"bottom","toNode":"aef400de57ca791f","toSide":"top"},
+		{"id":"be7111c1bc1354e3","fromNode":"46131b087dcecfad","fromSide":"left","toNode":"7a17f20ad4c64492","toSide":"top"},
+		{"id":"d18c5355d23176cf","fromNode":"46131b087dcecfad","fromSide":"right","toNode":"c009b41f9fb14742","toSide":"top"}
+	]
+}

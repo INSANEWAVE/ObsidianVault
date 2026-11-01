@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e3e33f6ae7a4ee67","x":-180,"y":0,"width":160,"height":60,"type":"text","text":"УУ"},
+		{"id":"6011210c710715dd","type":"text","text":"ОУ","x":100,"y":0,"width":80,"height":60},
+		{"id":"7643f9ca25045bf5","x":48,"y":-160,"width":92,"height":60,"type":"text","text":"f(t)"},
+		{"id":"2edae90eddc04193","x":280,"y":0,"width":70,"height":60,"type":"text","text":"y(t)"},
+		{"id":"09564cab65c16f32","x":-380,"y":0,"width":100,"height":60,"type":"text","text":"v(t)"}
+	],
+	"edges":[
+		{"id":"240218fff997bd83","fromNode":"09564cab65c16f32","fromSide":"right","toNode":"e3e33f6ae7a4ee67","toSide":"left"},
+		{"id":"ca99e278055bf584","fromNode":"e3e33f6ae7a4ee67","fromSide":"right","toNode":"6011210c710715dd","toSide":"left"},
+		{"id":"63f580e287c72502","fromNode":"7643f9ca25045bf5","fromSide":"bottom","toNode":"6011210c710715dd","toSide":"top"},
+		{"id":"2bc0d75406ee763d","fromNode":"6011210c710715dd","fromSide":"right","toNode":"2edae90eddc04193","toSide":"left"}
+	]
+}

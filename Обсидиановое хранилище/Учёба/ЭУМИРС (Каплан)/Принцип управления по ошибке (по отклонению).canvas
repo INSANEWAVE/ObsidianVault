@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d41b969b21fe7690","x":-920,"y":-120,"width":250,"height":60,"type":"text","text":""},
+		{"id":"78b35124d8d637b5","x":420,"y":-90,"width":250,"height":60,"type":"text","text":"ОУ"},
+		{"id":"e27007a9626b29a2","x":400,"y":-440,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e14f05e73c69668c","x":-130,"y":-120,"width":250,"height":60,"type":"text","text":"КУ - корректирующее устройство"},
+		{"id":"6f7f910a5a88bb0a","x":-500,"y":-120,"width":220,"height":80,"type":"text","text":"СУ - сравнивающее устройство"},
+		{"id":"3f280dfc961033bc","x":-500,"y":-320,"width":600,"height":120,"color":"3","type":"text","text":"УУ"}
+	],
+	"edges":[
+		{"id":"d559c82ca0b57d64","fromNode":"d41b969b21fe7690","fromSide":"right","toNode":"6f7f910a5a88bb0a","toSide":"left","label":"v(t)"},
+		{"id":"32b66339389c3d61","fromNode":"6f7f910a5a88bb0a","fromSide":"right","toNode":"e14f05e73c69668c","toSide":"left","label":"epsilon(t)"},
+		{"id":"70d5c041a2b28df1","fromNode":"e27007a9626b29a2","fromSide":"bottom","toNode":"78b35124d8d637b5","toSide":"top","label":"f(t)"},
+		{"id":"fb4f03445d659d06","fromNode":"e14f05e73c69668c","fromSide":"right","toNode":"78b35124d8d637b5","toSide":"left","label":"u(t)"},
+		{"id":"e742585380b7868b","fromNode":"78b35124d8d637b5","fromSide":"right","toNode":"6f7f910a5a88bb0a","toSide":"bottom","label":"y(t)"}
+	]
+}

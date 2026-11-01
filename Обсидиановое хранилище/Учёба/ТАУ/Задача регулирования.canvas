@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"db20d2b30502c32e","x":-207,"y":140,"width":250,"height":60,"type":"text","text":"Датчик"},
+		{"id":"7836540d284abc44","x":-187,"y":-40,"width":210,"height":60,"type":"text","text":"Объект управления"},
+		{"id":"761aac010d9a0a3d","x":-187,"y":-240,"width":250,"height":60,"type":"text","text":"f(t) - неконтроллируемое внешнее воздействие"},
+		{"id":"d4157af8e327d2ff","x":-580,"y":-240,"width":250,"height":60,"type":"text","text":"v(t) -----> задающее воздействие содержащее информацию о желаемом y(t)"},
+		{"id":"99e06e7cbe91cfd7","type":"text","text":"u(t) - управляющее воздействие","x":-540,"y":-40,"width":250,"height":60},
+		{"id":"23021fad01e144c9","type":"text","text":"y(волна)(t) - наблюдаемый сигнал с помехой от датчика","x":-580,"y":140,"width":290,"height":60},
+		{"id":"d46590bdd18d4dce","x":180,"y":-40,"width":250,"height":60,"type":"text","text":"y(t) - управляемая величина"},
+		{"id":"9a06452a400c66ba","x":-187,"y":340,"width":250,"height":60,"type":"text","text":"s(t) - шумы измерения"},
+		{"id":"78496a047af5a5e6","x":260,"y":140,"width":571,"height":356,"type":"file","file":"Excalidraw/Drawing 2025-09-10 17.30.32.excalidraw.md"},
+		{"id":"f7a05fc66b2985ce","x":180,"y":720,"width":250,"height":60,"type":"text","text":""},
+		{"id":"f4df25c1a29b8497","x":260,"y":40,"width":571,"height":50,"type":"text","text":"Задача слежения - найти такой u(t) который удовлетворит следующему условию:"}
+	],
+	"edges":[
+		{"id":"1249d20e65237fa8","fromNode":"7836540d284abc44","fromSide":"right","toNode":"db20d2b30502c32e","toSide":"right"},
+		{"id":"cbd0821421a53880","fromNode":"761aac010d9a0a3d","fromSide":"bottom","toNode":"7836540d284abc44","toSide":"top"},
+		{"id":"6f9e3f2d499de215","fromNode":"99e06e7cbe91cfd7","fromSide":"right","toNode":"7836540d284abc44","toSide":"left"},
+		{"id":"fa27fa2f7f29810e","fromNode":"7836540d284abc44","fromSide":"right","toNode":"d46590bdd18d4dce","toSide":"left"},
+		{"id":"f6605c2f41f9b9a6","fromNode":"9a06452a400c66ba","fromSide":"top","toNode":"db20d2b30502c32e","toSide":"bottom"},
+		{"id":"ff823e0bd5af8de8","fromNode":"db20d2b30502c32e","fromSide":"left","toNode":"23021fad01e144c9","toSide":"right"}
+	]
+}

@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "4f952675437b40f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb22bd0f3b3b634d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d50d411ee184fde5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обсидиановое хранилище/quartus_ahdl_guideline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quartus_ahdl_guideline"
+            }
+          },
+          {
+            "id": "fdbb6182e2373c18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обсидиановое хранилище/Ролки/История одного зелья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "История одного зелья"
+            }
+          },
+          {
+            "id": "98b489adf1a310f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мяу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мяу"
+            }
+          },
+          {
+            "id": "f76d629b1f35e7f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обсидиановое хранилище/Учёба/Телеметрия/Телеметрия Лекция 10.02.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Телеметрия Лекция 10.02.2025"
+            }
+          },
+          {
+            "id": "794bda067a453738",
+            "type": "leaf",
+            "state": {
+              "type": "ink_drawing-view",
+              "state": {
+                "file": "Ink/Drawing/2026.10.28 - 7.52am.svg"
+              },
+              "icon": "lucide-file",
+              "title": "2026.10.28 - 7.52am"
+            }
+          },
+          {
+            "id": "87842a64dcc472d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 12"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c941444b7dc03027",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc8cbf67e798616a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22fd301586d84ba3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1e7a52a7563ea749",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "c2c0503442006ecb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.3564338684082
+  },
+  "right": {
+    "id": "eaa09c4b2f4fccc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "71e7c5508382f67f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5145bce73951743",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Экзамен ЭУМИРС.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Экзамен ЭУМИРС"
+            }
+          },
+          {
+            "id": "9eedea519d89540c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Экзамен ЭУМИРС.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Экзамен ЭУМИРС"
+            }
+          },
+          {
+            "id": "04f4121966cdac19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c045bd49dc34b587",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "a2e0ce7799316731",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Экзамен ЭУМИРС.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Экзамен ЭУМИРС"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "87842a64dcc472d4",
+  "lastOpenFiles": [
+    "Без названия 12.md",
+    "Ink/Drawing/2026.10.28 - 7.52am.svg",
+    "Вопросы телеметрия.md",
+    "Обсидиановое хранилище/Учёба/Телеметрия/Телеметрия Лекция 10.02.2025.md",
+    "Обсидиановое хранилище/Учёба/Телеметрия/Устройство Формирования Группового Телеметрического Сигнала.md",
+    "Обсидиановое хранилище/Фото со слайдом введение в телеметрию.md",
+    "Экзамен телеметрия.md",
+    "Ink/Drawing/2026.10.27 - 23.07pm.svg",
+    "Ink/Drawing/2026.10.27 - 23.03pm.svg",
+    "Ink/Drawing",
+    "Ink",
+    "Мяу.md",
+    "43.md",
+    "1.md",
+    "Обсидиановое хранилище/Ролки/История одного зелья.md",
+    "Todo LR4.md",
+    "stm32f407manual.pdf",
+    "stm32f303manual.pdf",
+    "README.md",
+    "Pasted image 20260428021629.png",
+    "Типы сообщений ROS2.md",
+    "ТАУ2.md",
+    "Рыба.md",
+    "ТАУ.md",
+    "Работа со службами и демонами.md",
+    "Промпт.md",
+    "Обсидиановое хранилище/quartus_ahdl_guideline.md",
+    "INBOX/Долги.md",
+    "Обсидиановое хранилище/11.02.2026.md",
+    "Обсидиановое хранилище/1target.md",
+    "Портмоне.md",
+    "Долги которые следует закрыть до 25 числа и 25 числа.md",
+    "Обсидиановое хранилище/Учёба/Конструирование мех. систем/Подсистема определения движения робота-ассистента/Микроконтроллер  STM32F407.md",
+    "Без названия 11.md",
+    "stm32f407datasheet.pdf",
+    "stm32f303datasheet.pdf",
+    "Pasted image 20260428021732.png",
+    "INBOX/Без названия.canvas",
+    "Без названия.base",
+    "Без названия.canvas",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Скриншоты/Pasted image 20240903200613.png",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Скриншоты/Pasted image 20240903195739.png",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Скриншоты/Pasted image 20240903190646.png",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Скриншоты/Pasted image 20240903190541.png",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Скриншоты/Pasted image 20240903190313.png",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Устройство САУ.canvas",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Скриншоты",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Воздействие на объект управления.canvas",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив/Воздействие на объект управления 1.canvas",
+    "Обсидиановое хранилище/Учёба/ЭУМИРС (Каплан)/Управление с прямой обратной связью.canvas",
+    "Обсидиановое хранилище/Учёба/ЭУМИРС (Каплан)/Управление с прямой и обратной связью.canvas",
+    "Обсидиановое хранилище/Учёба/ЭУМИРС (Каплан)/Управление по возмущению.canvas",
+    "Обсидиановое хранилище/Учёба/ЭУМИРС (Каплан)/Принцип управления по ошибке (по отклонению).canvas",
+    "Обсидиановое хранилище/Учёба/ЭУМИРС (Каплан)/Архив",
+    "Обсидиановое хранилище/Учёба/ТАУ/Задача регулирования.canvas",
+    "Обсидиановое хранилище/Учёба/ТАУ/Архив"
+  ]
+}
